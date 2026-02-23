@@ -1,0 +1,14 @@
+C:\Users\kiryu\BinaryCalc\bin\Debug\net10.0\BinaryCalc.exe
+C:\Users\kiryu\BinaryCalc\bin\Debug\net10.0\BinaryCalc.deps.json
+C:\Users\kiryu\BinaryCalc\bin\Debug\net10.0\BinaryCalc.runtimeconfig.json
+C:\Users\kiryu\BinaryCalc\bin\Debug\net10.0\BinaryCalc.dll
+C:\Users\kiryu\BinaryCalc\bin\Debug\net10.0\BinaryCalc.pdb
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\BinaryCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\BinaryCalc.AssemblyInfoInputs.cache
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\BinaryCalc.AssemblyInfo.cs
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\BinaryCalc.csproj.CoreCompileInputs.cache
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\BinaryCalc.dll
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\refint\BinaryCalc.dll
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\BinaryCalc.pdb
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\BinaryCalc.genruntimeconfig.cache
+C:\Users\kiryu\BinaryCalc\obj\Debug\net10.0\ref\BinaryCalc.dll
